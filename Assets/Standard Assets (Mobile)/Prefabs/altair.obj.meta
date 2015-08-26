@@ -1,0 +1,131 @@
+fileFormatVersion: 2
+guid: 0a01b529e9932014f89b8227354b242a
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Torso
+    100004: Torso_Arms
+    100006: Torso_Arms Gloves
+    100008: Torso_Arms Gloves Blade
+    100010: Torso_Arms Gloves Fingers
+    100012: Torso_BackSword
+    100014: Torso_Hood
+    100016: Torso_Hood head
+    100018: Torso_Hood head eyes
+    100020: Torso_Hood UpperBody
+    100022: Torso_Legs
+    100024: Torso_Legs Boots
+    100026: Torso_Legs Sword Scb
+    100028: Torso_Legs Sword Sword1
+    400000: //RootNode
+    400002: Torso
+    400004: Torso_Arms
+    400006: Torso_Arms Gloves
+    400008: Torso_Arms Gloves Blade
+    400010: Torso_Arms Gloves Fingers
+    400012: Torso_BackSword
+    400014: Torso_Hood
+    400016: Torso_Hood head
+    400018: Torso_Hood head eyes
+    400020: Torso_Hood UpperBody
+    400022: Torso_Legs
+    400024: Torso_Legs Boots
+    400026: Torso_Legs Sword Scb
+    400028: Torso_Legs Sword Sword1
+    2300000: Torso
+    2300002: Torso_Arms
+    2300004: Torso_Arms Gloves
+    2300006: Torso_Arms Gloves Blade
+    2300008: Torso_Arms Gloves Fingers
+    2300010: Torso_BackSword
+    2300012: Torso_Hood
+    2300014: Torso_Hood head
+    2300016: Torso_Hood head eyes
+    2300018: Torso_Hood UpperBody
+    2300020: Torso_Legs
+    2300022: Torso_Legs Boots
+    2300024: Torso_Legs Sword Scb
+    2300026: Torso_Legs Sword Sword1
+    3300000: Torso
+    3300002: Torso_Arms
+    3300004: Torso_Arms Gloves
+    3300006: Torso_Arms Gloves Blade
+    3300008: Torso_Arms Gloves Fingers
+    3300010: Torso_BackSword
+    3300012: Torso_Hood
+    3300014: Torso_Hood head
+    3300016: Torso_Hood head eyes
+    3300018: Torso_Hood UpperBody
+    3300020: Torso_Legs
+    3300022: Torso_Legs Boots
+    3300024: Torso_Legs Sword Scb
+    3300026: Torso_Legs Sword Sword1
+    4300000: Torso
+    4300002: Torso_Arms
+    4300004: Torso_Arms Gloves
+    4300006: Torso_Arms Gloves Blade
+    4300008: Torso_Arms Gloves Fingers
+    4300010: Torso_BackSword
+    4300012: Torso_Hood
+    4300014: Torso_Hood head
+    4300016: Torso_Hood head eyes
+    4300018: Torso_Hood UpperBody
+    4300020: Torso_Legs
+    4300022: Torso_Legs Boots
+    4300024: Torso_Legs Sword Scb
+    4300026: Torso_Legs Sword Sword1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
